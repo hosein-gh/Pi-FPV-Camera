@@ -2,9 +2,10 @@
 A simple python script to make a FPV camera with DVR <BR>
 
 ## How it works :
-Capure live video from Pi Camera module |--> send it to av out pin on raspberry pi 
-                                        |--> will wait for button to be pushed or radio control signal to start recording or capture image
-                                        |--> if button pushed or signal recived will recored video on SD Card
+* Capure live video from Pi Camera module 
+* Send it to av out pin on raspberry pi 
+* Will wait for button to be pushed or radio control signal to start recording or capture image
+* If button pushed or signal recived will recored video on SD Card
 
 ## Components :
 * Raspberry Pi zero w
